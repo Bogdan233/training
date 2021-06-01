@@ -1,0 +1,6 @@
+{
+    "baseUrl" : "https://demo.applitools.com/", 
+    "defaultCommandTimeout" : 10000,
+    "testFiles" : "**/*.*"
+
+}
